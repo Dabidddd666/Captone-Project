@@ -1,5 +1,5 @@
 # Capstone-Project
-This is my capstone project. 
+This is my capstone project for NYU CSCI-UA 473. 
 Description: in this project, you will be working on state prediction of a 4-fingered robot hand given RGBD (RGB + Depth) images. You are required to implement a simple supervised learning algorithm where you input RGBD images of the robotic hand from a top view, and output the positions (in meters) of the tip of each finger. 
 
 I add more experimental results and comments in readMe file and programming file. It is a detailed supports to my report.
